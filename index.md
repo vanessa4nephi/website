@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Highlights
-description: A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a>
+title: Vanessa Goates for Nephi City Council
+description: A strong voice for Nephi
 ---
